@@ -31,9 +31,9 @@ A theme for Garlic OS That looks like the MinUI Theme, but just a tad bit better
 
 ## Credit
 
-- Thenk you to Express Mode 420 for the white system icons ( [Download](https://www.rg35xx.com/?sdm_process_download=1&download_id=1254) ).
-- Thank you to Tech Dweeb for the tutorial ( [Watch](https://www.youtube.com/watch?v=lEHpZTniUZw&t=711s) ).
-- Inspired by the MinUI Operating System ( [See](https://github.com/shauninman/MinUI) ).
+- Thank you to Express Mode 420 for the white system icons ( [Download](https://www.rg35xx.com/?sdm_process_download=1&download_id=1254) )
+- Thank you to Tech Dweeb for the tutorial ( [Watch](https://www.youtube.com/watch?v=lEHpZTniUZw&t=711s) )
+- Inspired by the MinUI Operating System ( [See](https://github.com/shauninman/MinUI) )
 
 ![Preview Image 2](https://github.com/icd-t/GarlicOS-MinCleanTheme/blob/main/PreviewIMG_2.png)
 
