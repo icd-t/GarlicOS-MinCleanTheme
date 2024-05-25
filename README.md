@@ -1,6 +1,6 @@
 # GarlicOS-MinCleanTheme
 
-A theme for Garlic OS That looks like the MinUI Theme, but just a tad bit better.
+A theme for Garlic OS That looks like the MinUI Theme, but just a tad bit better. Huge thanks to Express Mode 420 for their White System Icons (Style 2) that you can find and download [here](https://www.rg35xx.com/?sdm_process_download=1&download_id=1254). Additionally, you can browse other system icons [here](https://www.rg35xx.com/en/customization/system-icons/) and other Garlic OS themes [here](https://www.rg35xx.com/en/customization/garlicos-themes/).
 
 ## Requirements
 
