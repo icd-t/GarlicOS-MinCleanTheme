@@ -9,7 +9,7 @@ A theme for Garlic OS That looks like the MinUI Theme, but just a tad bit better
 
 ## Installation
 
-1. Download zip file of this repository.
+1. Download zip file of this repository (Can be found in the releases section).
 2. Unzip using Winrar or your prefered un-zipping program.
 3. Keep the `font`, `lang`, and `skin` folders safe and do not touch the contents or names.
 4. Insert your SD card from RG35XX into your computer.
