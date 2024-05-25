@@ -16,7 +16,7 @@ A theme for Garlic OS That looks like the MinUI Theme, but just a tad bit better
 
 1. Download zip file of this repository (Can be found in the releases section).
 2. Unzip using Winrar or your prefered un-zipping program.
-3. Keep the `font`, `lang`, and `skin` folders safe and do not touch the contents or names.
+3. Keep the `font`, `lang`, and `skin` folders safe and do not touch the contents or names. Ignore all other files (Such as preview images, and the read me).
 4. Insert your SD card from RG35XX into your computer.
 5. Navagate to the CFW partition. The file structure should include the folders `autostart`, `config`, `font`, `lang`, `retroarch`, and `skin`.
 6. Drag and drop the `font`, `lang`, and `skin` folders from earlier
